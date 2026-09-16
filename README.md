@@ -12,6 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 
 </div>
@@ -34,7 +35,7 @@ Je débute encore *(junior dev)*, mais j'adore ça — coder, c'est clairement m
 
 | Domaine | Technos |
 |---|---|
-| **Langages** | HTML, CSS, JavaScript, Python, C++, PHP |
+| **Langages** | HTML, CSS, JavaScript, Python, C++, PHP , MySQL |
 | **Frameworks / Outils** | Electron.js, Git |
 | **Réseaux** | Bases solides (BTS CIEL) |
 
