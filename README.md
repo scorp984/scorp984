@@ -21,7 +21,7 @@
 
 ### 🚀 Qui je suis
 
-Technicienne supérieure **(BTS CIEL)**, actuellement en train de devenir **développeuse full stack**.
+Technicien supérieure **(BTS CIEL)**, actuellement en train de devenir **développeur full stack**.
 Je débute encore *(junior dev)*, mais j'adore coder.
 
 ### 💡 Ce que je fais
@@ -41,7 +41,7 @@ Je débute encore *(junior dev)*, mais j'adore coder.
 
 ### 🎯 En ce moment
 
-Je bosse à monter en compétences et à construire mon portfolio, projet après projet, pour devenir une vraie développeuse full stack.
+Je bosse à monter en compétences et à construire mon portfolio, projet après projet, pour devenir une vraie développeur full stack.
 
 <div align="center">
 
