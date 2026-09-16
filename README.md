@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Salut, moi c'est Noah
+# 👋 Salut, moi c'est scorp
 
 ### Développeuse Full Stack Junior 🚀
 
