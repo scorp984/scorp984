@@ -22,7 +22,7 @@
 ### 🚀 Qui je suis
 
 Technicienne supérieure **(BTS CIEL)**, actuellement en train de devenir **développeuse full stack**.
-Je débute encore *(junior dev)*, mais j'adore ça — coder, c'est clairement ma came.
+Je débute encore *(junior dev)*, mais j'adore coder.
 
 ### 💡 Ce que je fais
 
