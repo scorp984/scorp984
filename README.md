@@ -41,7 +41,7 @@ Je débute encore *(junior dev)*, mais j'adore coder.
 
 ### 🎯 En ce moment
 
-Je bosse à monter en compétences et à construire mon portfolio, projet après projet, pour devenir une vraie développeur full stack.
+Je travaille à développer mes compétences et à construire mon portfolio, projet après projet, afin de devenir un véritable développeur Full Stack.
 
 <div align="center">
 
